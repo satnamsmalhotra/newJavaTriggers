@@ -2,11 +2,7 @@ package com.codiscope.jaks.triggers.java.files;
 
 import java.io.File;
 import java.io.IOException;
-import tests.sources.DatabaseSource;
-import tests.sources.FileSource;
-import tests.sources.PrivateSource;
-import tests.sources.WebSource;
-import tests.sources.WebSourceCookie;
+
 
 /*
  Rule:
