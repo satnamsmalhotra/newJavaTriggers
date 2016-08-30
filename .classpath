@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="com/codiscope/jaks/triggers/java/apache/filenameutils/|com/codiscope/jaks/triggers/java/classname/|com/codiscope/jaks/triggers/java/command/|com/codiscope/jaks/triggers/java/cookie/|com/codiscope/jaks/triggers/java/core/exceptionstacktrace/|com/codiscope/jaks/triggers/java/crypto/|com/codiscope/jaks/triggers/java/hibr/|com/codiscope/jaks/triggers/java/http/|com/codiscope/jaks/triggers/java/http/request/|com/codiscope/jaks/triggers/java/json/|com/codiscope/jaks/triggers/java/spring/jdbc/ibatis/|com/codiscope/jaks/triggers/java/spring/jdbc/jdotemplate/|com/codiscope/jaks/triggers/java/spring/jdbc/jpa/|com/codiscope/jaks/triggers/java/spring/jdbc/simplejdbctemplate/|com/codiscope/jaks/triggers/java/spring/mail/|com/codiscope/jaks/triggers/java/sql/|com/codiscope/jaks/triggers/java/xml/|com/codiscope/jaks/triggers/java/xslt/|com/codiscope/jaks/triggers/java/xss/|tests/sources/" kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="D:/CSA Test project/dependencies/lib/commons-lang3-3.1.jar"/>
 	<classpathentry kind="lib" path="D:/CSA Test project/dependencies/lib/crimson-1.1.3.jar"/>
